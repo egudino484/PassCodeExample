@@ -9,7 +9,7 @@ Example Of How to Use  iOS Pass Code  Local Authentication in SwiftUI
 
 <img src="/readmeDocs/image3.png"  height="600" alt="PassCode Screen"/>
 
-### Finallly an success or error alert wil show
+### Finallly  success or error alert wil show
 
 <img src="/readmeDocs/image2.png"  height="600" alt="Success Screen"/>
 
